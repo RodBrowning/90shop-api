@@ -15,7 +15,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/TomyPocketGames.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/TomyPocketGames.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 3
         },
@@ -35,7 +35,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/Lego.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/Lego.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 15
         },
@@ -55,7 +55,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroOperation.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroOperation.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 21
         },
@@ -74,7 +74,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/TycoRCPro-Am.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/TycoRCPro-Am.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 30
         },
@@ -93,7 +93,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/MattelSkip-Bo.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/MattelSkip-Bo.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 7
         },
@@ -112,7 +112,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/TigerElectronicsSuperSoaker.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/TigerElectronicsSuperSoaker.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 10
         },
@@ -132,7 +132,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/slip-n-slide.jpeg",
+            "imageURL": "https://mock-products.herokuapp.com/images/slip-n-slide.jpeg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 9
         },
@@ -151,7 +151,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/ParkerBrothersNerfBall.png",
+            "imageURL": "https://mock-products.herokuapp.com/images/ParkerBrothersNerfBall.png",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 1
         },
@@ -171,7 +171,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroTwister.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroTwister.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 17
         },
@@ -191,7 +191,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/IdealPickUpSticks.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/IdealPickUpSticks.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 12
         },
@@ -210,7 +210,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/TakaraTransformers.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/TakaraTransformers.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 13
         },
@@ -230,7 +230,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/MiltonBradleyCandyLand.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/MiltonBradleyCandyLand.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 25
         },
@@ -250,7 +250,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/JakksPacificTickleMeElmo.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/JakksPacificTickleMeElmo.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 22
         },
@@ -269,7 +269,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroMrPotatoHead.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroMrPotatoHead.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 3
         },
@@ -288,7 +288,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroMonopoly.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroMonopoly.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 11
         },
@@ -308,7 +308,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/TycoShrinkyDinks.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/TycoShrinkyDinks.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 5
         },
@@ -328,7 +328,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/MiltonBradleySimon.png",
+            "imageURL": "https://mock-products.herokuapp.com/images/MiltonBradleySimon.png",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 18
         },
@@ -347,7 +347,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroGIJoe.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroGIJoe.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 10
         },
@@ -367,7 +367,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/SpinMasterTamagotchi.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/SpinMasterTamagotchi.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 34
         },
@@ -386,7 +386,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/NamcoPacMan.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/NamcoPacMan.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 18
         },
@@ -405,7 +405,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/SuperNintendoEntertainmentSystem.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/SuperNintendoEntertainmentSystem.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 2
         },
@@ -425,7 +425,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroMyLittlePony.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroMyLittlePony.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 8
         },
@@ -445,7 +445,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroPoundPuppies.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroPoundPuppies.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 23
         },
@@ -464,7 +464,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/HasbroCabbagePatchKids.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/HasbroCabbagePatchKids.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 3
         },
@@ -483,7 +483,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/MattelBarbie.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/MattelBarbie.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 1
         },
@@ -502,7 +502,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/TigerElectronicsFurby.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/TigerElectronicsFurby.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 8
         },
@@ -522,7 +522,7 @@
                     "currencyCode": "GBP"
                 }
             },
-            "imageURL": "http://localhost:4000/images/BandaiPowerRangers.jpg",
+            "imageURL": "https://mock-products.herokuapp.com/images/BandaiPowerRangers.jpg",
             "imageAlt": "Lorem ipsum dolor sit amet consectetur.",
             "availableQuantity": 16
         }
