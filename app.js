@@ -12,7 +12,7 @@ app.get('/products', (req, res)=>{
 
 app.use('/images', express.static('images'))
 
-const port = 4000;
+const port = process.env.PORT || 5000;
 
 app.listen(port, () => {
     console.log("OK")
