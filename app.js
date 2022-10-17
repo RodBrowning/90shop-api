@@ -6,8 +6,8 @@ app.use(cors())
 
 const products = require('./db.json');
 
-app.get('/products', (req, res)=>{
-    res.status(200).json(products);
+app.get('/products/GBP', (req, res)=>{
+    res.status(200).json(products.GBP);
 });
 
 app.use('/images', express.static('images'))
