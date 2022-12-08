@@ -1,4 +1,5 @@
 const express = require('express');
+const path = require('path');
 const cors = require('cors');
 
 const app = express();
@@ -10,7 +11,7 @@ app.get('/products/GBP', (req, res)=>{
     res.status(200).json(products.GBP);
 });
 
-app.use(express.static('public'));
+app.use('/public', express.static(path.join(__dirname + '/public')))
 
 const port = process.env.PORT || 5000;
 
