@@ -10,7 +10,7 @@ app.get('/products/GBP', (req, res)=>{
     res.status(200).json(products.GBP);
 });
 
-app.use('/images', express.static('images'));
+app.use(express.static('public'));
 
 const port = process.env.PORT || 5000;
 
