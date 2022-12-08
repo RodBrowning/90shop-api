@@ -6,8 +6,8 @@
         "use": "@now/node"
       },
       {
-          "src": "images/**",
-          "use": "@vercel/static"
+        "src": "images/**",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
@@ -16,8 +16,8 @@
         "dest": "app.js"
       },
       {
-          "src": "/(.+)",
-          "dest": "images/$1"
+        "src": "/(.+)",
+        "dest": "images/$1"
       }
     ]
   }
